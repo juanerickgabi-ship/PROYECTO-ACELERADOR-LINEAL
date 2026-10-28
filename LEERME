@@ -1,0 +1,9 @@
+hola mundo xd
+Git Hub no es super intuitivo yo apenas me estoy acordando aunque en desarrollo una actualizaba automaticamente desde colab o VS Code asi que igual estoy algo perdido pero aqui vamos a subir todo lo referente al proyecto, subi algunas cosas para acordarme solo ignorelas.
+Todo lo que hagamos se va subir aqui asi que desde ya tenemos que ir adelantando, recomiendo que trabajemos en la U pero si ya no se puede lo hacemos desde casa, la razon es que no tengo Ubuntu instalado y si o si me toca en la U y creo que Gaby tampoco tiene asi que no se que solucion proponer. Aqui tambien se van a subir los documentos como el informe, graficas, avances, etc. Absolutamente todo lo que hagamos lo subimos aqui, en estos dias puedo irles explicando pero si es poco intuitivo asi que les recomendaria verse un video en Youtube o preguntarle a la IA.
+Como se las cosas que pueden salir mal al usar esta plataforma de gordos compu entonces les recomiendo:
+1. Siempre que vayan a hacer cambios muy importantes (especialmente en codigo) guardar una copia de seguridad porque hay ocasiones en la que el git se puede buguear y no guardar los cambios.
+2. esta es opcional pero si alguien puede instalarse la aplicacion de escritorio seria bueno pero tampoco lo veo tan necesario debido al trabajo que vamos a hacer.
+3. Siempre que hagan un cambio en algun archivo darle a "commit changes" ya que no se guardan automaticamente si se cierra derrepente la ventana.
+4. Una obvia, no subir cosas que estan por fuera del proyecto para evitar confusiones con nombres
+5. No subir codigo chatarra, es decir mantener siempre limpio el codigo, sin lineas que no aportan nada principalmente es para que cuando yo o alguien mas mire el codigo del otro entienda el codigo, no se confunda y pueda seguir trabajando desde ahi, osea ser oredenados, comentar donde haga falta y nombrar bien las funciones y variables.
