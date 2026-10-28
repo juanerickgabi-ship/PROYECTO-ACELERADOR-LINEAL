@@ -1,0 +1,23 @@
+{
+ "lambda_m": 0.8511994832481544,
+ "diseno": {
+  "celdas": 55,
+  "longitud_m": 10.586685182294357,
+  "L_primera": 0.07703275480161698,
+  "L_ultima": 0.2688735250881599,
+  "gradiente_MeV_m": 4.439538834932477,
+  "ganancia_por_celda": 0.8660254037844387
+ },
+ "sincrotron": {
+  "mu_inicial_teo_grados": 41.36012849295018,
+  "mu_final_teo_grados": 9.790683135990601,
+  "amplitud_inicial": 3.0,
+  "amplitud_final": 1.3944720149349727
+ },
+ "electrones": {
+  "T_final_cresta": 69.92257672358407,
+  "deriva_fase_cresta": 3.607731677799499,
+  "T_final_40": 53.55138671263161,
+  "cos40": 0.766044443118978
+ }
+}

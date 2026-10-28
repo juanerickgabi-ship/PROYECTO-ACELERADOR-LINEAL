@@ -1,0 +1,13 @@
+{
+ "semilla": 20261919,
+ "particula": "protón",
+ "f_rf_MHz": 352.2,
+ "V_gap_MV": 1.0,
+ "T_inicial_MeV": 3.0,
+ "T_final_MeV": 50.0,
+ "fases_sincronas_grados": [-60, -30, -15, 0, 30],
+ "fase_referencia_grados": -30,
+ "haz": {"particulas": 3000, "dispersion_fase_grados": 15.0, "dispersion_energia_rel": 0.005},
+ "error_frecuencia_rel": [0.0, 0.002, 0.005, 0.01, 0.02, 0.04],
+ "electron": {"T_inicial_MeV": 10.0, "celdas": 60}
+}

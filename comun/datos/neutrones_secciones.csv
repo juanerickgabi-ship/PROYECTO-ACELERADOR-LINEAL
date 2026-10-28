@@ -1,0 +1,20 @@
+# Secciones eficaces microscopicas de neutrones (barn) por atomo, elemento natural.
+# sigma_a: absorcion a 0,0253 eV (varia como 1/v); sigma_s: dispersion de atomo libre en la region epitermica
+# (aprox. constante entre ~1 eV y ~100 keV). Valores redondeados de Mughabghab (Atlas of Neutron Resonances)
+# y Sears (Neutron News 3, 1992). El hidrogeno usa ademas la parametrizacion sigma_H(E) de comun/neutrones.py.
+elemento,A,sigma_a,sigma_s
+H,1.008,0.3326,20.49
+D,2.014,0.000519,3.39
+B,10.81,767.0,4.27
+C,12.011,0.00350,4.74
+N,14.007,1.90,10.0
+O,15.999,0.00019,3.76
+Na,22.990,0.530,3.28
+Al,26.982,0.231,1.50
+Si,28.086,0.171,2.17
+Cl,35.45,33.5,16.8
+Ca,40.078,0.43,2.83
+Fe,55.845,2.56,11.6
+Cd,112.41,2520.0,6.5
+Gd,157.25,49700.0,180.0
+Pb,207.2,0.171,11.1

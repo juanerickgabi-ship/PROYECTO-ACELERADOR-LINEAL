@@ -1,0 +1,12 @@
+{
+ "_nota": "Densidad (g/cm3) y Z/A (mol/g). Los coeficientes estan en atenuacion_fotones.csv.",
+ "agua":        {"rho": 1.000, "ZA": 0.55508, "nombre": "Agua"},
+ "aire":        {"rho": 0.001205, "ZA": 0.49919, "nombre": "Aire seco"},
+ "musculo":     {"rho": 1.05, "ZA": 0.54938, "nombre": "Músculo esquelético (ICRU)"},
+ "adiposo":     {"rho": 0.95, "ZA": 0.55579, "nombre": "Tejido adiposo (ICRU)"},
+ "hueso":       {"rho": 1.92, "ZA": 0.51478, "nombre": "Hueso cortical (ICRU)"},
+ "pulmon":      {"rho": 0.26, "ZA": 0.54965, "nombre": "Pulmón inflado (composición de tejido blando)"},
+ "aluminio":    {"rho": 2.699, "ZA": 0.48181, "nombre": "Aluminio"},
+ "NaI":         {"rho": 3.667, "ZA": 0.42697, "nombre": "NaI(Tl)"},
+ "plomo":       {"rho": 11.35, "ZA": 0.39575, "nombre": "Plomo"}
+}
